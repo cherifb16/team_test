@@ -17,6 +17,7 @@ gem 'jquery-rails'
 gem 'redcarpet', '~> 3.5.1'
 gem 'sass-rails', '~> 5.0'
 gem 'webpacker', '~> 5'
+gem 'rexml'
 
 # Backend
 gem 'carrierwave'
